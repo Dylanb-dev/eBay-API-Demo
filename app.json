@@ -7,7 +7,6 @@
     "eBay"
   ],
   "repository": "https://github.com/pheuter/eBay-API-Demo/",
-  "logo": "",
   "env": {
     "PRODUCTION": "true",
     "NPM_CONFIG_PRODUCTION": "false"
